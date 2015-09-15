@@ -19,6 +19,6 @@ as each sentence per line.
 + second time, you can choose the way to interact with these trigram model:
 
 == Enter your choice:
-    1: load trigram model
-    2: test perplexity
-    3: generate random sentence
+1: load trigram model
+2: test perplexity
+3: generate random sentence
