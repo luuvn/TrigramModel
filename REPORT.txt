@@ -1,0 +1,39 @@
+**********************************************************
+Brown Corpus model
+**********************************************************
+
+On Brown Corpus test
+=============================
+Vocabulary size: 55076
+Number of sentences test: 1566
+Number of words test: 30476
+Log Probability: -246895.276023
+Perplexity: 274.621711
+
+On Reuters test
+=============================
+Vocabulary size: 55076
+Number of sentences test: 1568
+Number of words test: 39160
+Log Probability: -351068.881336
+Perplexity: 499.723674
+
+**********************************************************
+Reuters model
+**********************************************************
+
+On Brown Corpus test
+=============================
+Vocabulary size: 50063
+Number of sentences test: 1566
+Number of words test: 30476
+Log Probability: -283470.036164
+Perplexity: 630.966105
+
+On Reuters test
+=============================
+Vocabulary size: 50063
+Number of sentences test: 1570
+Number of words test: 39399
+Log Probability: -277427.664104
+Perplexity: 131.734553
