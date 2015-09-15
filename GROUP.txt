@@ -1,0 +1,17 @@
+============
+GROUP 5
+============
+
+1.Vo Ngoc Luu
+    - Do train trigram model
+    - Calculate probability of sentence using back-off technique
+    - Optimize method to calculate alpha, q back off
+
+2.Vu Anh Truong
+    - Do test perplexity process
+    - Do generate random sentence
+    - Improve performance
+
+3.Adeboye Adetomi Adebisi
+    - Process raw corpus to workable format
+    - Test, fix bugs with calculation, process text
